@@ -1,10 +1,46 @@
 <div align="center">
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=AmirKenzo%E2%AD%90&width=800&height=400)](https://github.com/AmirKenzo)
+## 👋 Hi! I'm **AmirKenzo**  
+🐍 Python enthusiast — still learning and always curious  
+🌌 Open-source explorer, turning ideas into small but growing projects  
+🎮 Gamer at heart, developer by choice  
 
-[![Snake](https://raw.githubusercontent.com/AmirKenzo/amirkenzo/refs/heads/main/github-snake.svg)](https://github.com/AmirKenzo)
+---
 
-[![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=amirkenzo&hide_progress=false)](https://github.com/AmirKenzo)
+<!-- 🏆 Stats & Languages side by side -->
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=AmirKenzo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirKenzo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-![](https://discord.c99.nl/widget/theme-3/611640800945766540.png)
+---
+
+<!-- 📊 Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirKenzo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+
+
+
+<!-- 🏅 Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=AmirKenzo&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+
+---
+
+<!-- 🎮 Discord -->
+<img src="https://discord.c99.nl/widget/theme-3/611640800945766540.png" alt="Discord" />
+
 </div>
+
+<!-- ⭐ Top Starred Repositories -->
+<p align="center">
+  <a href="https://github.com/AmirKenzo?tab=repositories&type=source&sort=stargazers">
+    <img src="https://img.shields.io/badge/⭐️%20Top%20Starred%20Repos-Click%20to%20View-informational?style=for-the-badge" alt="Top Starred Repos"/>
+  </a>
+</p>
+
+---
