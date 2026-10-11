@@ -51,7 +51,7 @@ class AmirKenzo:
 
 <div align="center">
 <!-- AUTO:STACK:START -->
-  <img src="https://skillicons.dev/icons?i=python,ts,bash,rust,js,html,css,docker,powershell,java,linux,git,githubactions&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,bash,rust,js,html,css,docker,powershell,java,cloudflare,discord,fastapi,mysql,react,sqlite,tailwind,linux,git,githubactions&perline=7&theme=dark" />
 <!-- AUTO:STACK:END -->
 </div>
 
