@@ -80,7 +80,7 @@ class AmirKenzo:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirKenzo&bg_color=0d1117&color=00ff88&line=00c647&point=ffffff&area=true&area_color=00c647&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/AmirKenzo/amirkenzo/refs/heads/output/activity-graph.svg" width="100%"/>
 </div>
 
 <div align="center">

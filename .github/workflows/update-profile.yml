@@ -7,7 +7,7 @@ on:
   push:
     branches: [main]
     paths:
-      - ".github/scripts/update_readme.py"
+      - ".github/scripts/*.py"
       - ".github/workflows/update-profile.yml"
 
 permissions:
@@ -47,6 +47,17 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/activity_graph.py dist/activity-graph.svg
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
