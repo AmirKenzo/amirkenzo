@@ -21,7 +21,7 @@ class AmirKenzo:
     stack     = ["Python", "TypeScript", "Shell", "Rust"]
     focus     = ["telegram bots", "discord bots", "desktop & web apps", "automation"]
     flagship  = "https://kobshare.ir"
-    currently = ["PasarguardBot", "pasarguard_api"]
+    currently = ["PasarguardBot", "Auto-SSL-Domain"]
     fun_fact  = "gamer at heart, developer by choice 🎮"
 
     def say_hi(self) -> str:
@@ -60,11 +60,11 @@ class AmirKenzo:
 <div align="center">
 <!-- AUTO:PROJECTS:START -->
   <a href="https://github.com/AmirKenzo/PasarguardBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=PasarguardBot&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
+  <a href="https://github.com/AmirKenzo/Marzban-Grafana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Marzban-Grafana&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
+  <a href="https://github.com/AmirKenzo/Marzban-Inbound-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Marzban-Inbound-examples&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
+  <a href="https://github.com/AmirKenzo/Auto-SSL-Domain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Auto-SSL-Domain&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
+  <a href="https://github.com/AmirKenzo/rtt-script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=rtt-script&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
   <a href="https://github.com/AmirKenzo/pasarguard_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=pasarguard_api&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
-  <a href="https://github.com/AmirKenzo/GangBoss-DiscordBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=GangBoss-DiscordBot&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
-  <a href="https://github.com/AmirKenzo/Fix-Subtitle-srt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Fix-Subtitle-srt&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
-  <a href="https://github.com/AmirKenzo/fish-autoclicker"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=fish-autoclicker&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
-  <a href="https://github.com/AmirKenzo/ak-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=ak-cli&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
 <!-- AUTO:PROJECTS:END -->
 </div>
 
