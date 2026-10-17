@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" font-family="Segoe UI, Ubuntu, sans-serif">
+<defs>
+<linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#00c647" stop-opacity="0.45"/>
+<stop offset="100%" stop-color="#00c647" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="reveal"><rect x="0" y="0" width="0" height="100%"><animate attributeName="width" from="0" to="1200" dur="1.6s" fill="freeze"/></rect></clipPath>
+</defs>
+<rect width="100%" height="100%" rx="8" fill="#0d1117"/>
+<text x="600.0" y="36" text-anchor="middle" fill="#00ff88" font-size="20" font-weight="600">AmirKenzo's Contribution Graph</text>
+<line x1="70" y1="300.0" x2="1170" y2="300.0" stroke="#1b2a22" stroke-dasharray="4 4"/>
+<text x="58" y="304.0" text-anchor="end" fill="#8b949e" font-size="12">0</text>
+<line x1="70" y1="252.0" x2="1170" y2="252.0" stroke="#1b2a22" stroke-dasharray="4 4"/>
+<text x="58" y="256.0" text-anchor="end" fill="#8b949e" font-size="12">20</text>
+<line x1="70" y1="204.0" x2="1170" y2="204.0" stroke="#1b2a22" stroke-dasharray="4 4"/>
+<text x="58" y="208.0" text-anchor="end" fill="#8b949e" font-size="12">40</text>
+<line x1="70" y1="156.0" x2="1170" y2="156.0" stroke="#1b2a22" stroke-dasharray="4 4"/>
+<text x="58" y="160.0" text-anchor="end" fill="#8b949e" font-size="12">60</text>
+<line x1="70" y1="108.0" x2="1170" y2="108.0" stroke="#1b2a22" stroke-dasharray="4 4"/>
+<text x="58" y="112.0" text-anchor="end" fill="#8b949e" font-size="12">80</text>
+<line x1="70" y1="60.0" x2="1170" y2="60.0" stroke="#1b2a22" stroke-dasharray="4 4"/>
+<text x="58" y="64.0" text-anchor="end" fill="#8b949e" font-size="12">100</text>
+<text x="70.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">17</text>
+<text x="106.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">18</text>
+<text x="143.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">19</text>
+<text x="180.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">20</text>
+<text x="216.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">21</text>
+<text x="253.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">22</text>
+<text x="290.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">23</text>
+<text x="326.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">24</text>
+<text x="363.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">25</text>
+<text x="400.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">26</text>
+<text x="436.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">27</text>
+<text x="473.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">28</text>
+<text x="510.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">29</text>
+<text x="546.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">30</text>
+<text x="583.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">1</text>
+<text x="620.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">2</text>
+<text x="656.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">3</text>
+<text x="693.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">4</text>
+<text x="730.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">5</text>
+<text x="766.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">6</text>
+<text x="803.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">7</text>
+<text x="840.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">8</text>
+<text x="876.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">9</text>
+<text x="913.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">10</text>
+<text x="950.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">11</text>
+<text x="986.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">12</text>
+<text x="1023.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">13</text>
+<text x="1060.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">14</text>
+<text x="1096.7" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">15</text>
+<text x="1133.3" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">16</text>
+<text x="1170.0" y="322.0" text-anchor="middle" fill="#8b949e" font-size="12">17</text>
+<text x="600.0" y="350" text-anchor="middle" fill="#8b949e" font-size="12">Last 31 days</text>
+<g clip-path="url(#reveal)">
+<polygon points="70.0,300.0 70.0,283.2 106.7,290.4 143.3,264.0 180.0,280.8 216.7,273.6 253.3,259.2 290.0,300.0 326.7,283.2 363.3,276.0 400.0,290.4 436.7,225.6 473.3,271.2 510.0,280.8 546.7,300.0 583.3,230.4 620.0,271.2 656.7,292.8 693.3,235.2 730.0,132.0 766.7,223.2 803.3,168.0 840.0,228.0 876.7,218.4 913.3,249.6 950.0,237.6 986.7,278.4 1023.3,297.6 1060.0,278.4 1096.7,300.0 1133.3,295.2 1170.0,300.0 1170.0,300.0" fill="url(#area)"/>
+<polyline points="70.0,283.2 106.7,290.4 143.3,264.0 180.0,280.8 216.7,273.6 253.3,259.2 290.0,300.0 326.7,283.2 363.3,276.0 400.0,290.4 436.7,225.6 473.3,271.2 510.0,280.8 546.7,300.0 583.3,230.4 620.0,271.2 656.7,292.8 693.3,235.2 730.0,132.0 766.7,223.2 803.3,168.0 840.0,228.0 876.7,218.4 913.3,249.6 950.0,237.6 986.7,278.4 1023.3,297.6 1060.0,278.4 1096.7,300.0 1133.3,295.2 1170.0,300.0" fill="none" stroke="#00c647" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="70.0" cy="283.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-17: 7</title></circle>
+<circle cx="106.7" cy="290.4" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-18: 4</title></circle>
+<circle cx="143.3" cy="264.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-19: 15</title></circle>
+<circle cx="180.0" cy="280.8" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-20: 8</title></circle>
+<circle cx="216.7" cy="273.6" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-21: 11</title></circle>
+<circle cx="253.3" cy="259.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-22: 17</title></circle>
+<circle cx="290.0" cy="300.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-23: 0</title></circle>
+<circle cx="326.7" cy="283.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-24: 7</title></circle>
+<circle cx="363.3" cy="276.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-25: 10</title></circle>
+<circle cx="400.0" cy="290.4" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-26: 4</title></circle>
+<circle cx="436.7" cy="225.6" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-27: 31</title></circle>
+<circle cx="473.3" cy="271.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-28: 12</title></circle>
+<circle cx="510.0" cy="280.8" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-29: 8</title></circle>
+<circle cx="546.7" cy="300.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-09-30: 0</title></circle>
+<circle cx="583.3" cy="230.4" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-01: 29</title></circle>
+<circle cx="620.0" cy="271.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-02: 12</title></circle>
+<circle cx="656.7" cy="292.8" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-03: 3</title></circle>
+<circle cx="693.3" cy="235.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-04: 27</title></circle>
+<circle cx="730.0" cy="132.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-05: 70</title></circle>
+<circle cx="766.7" cy="223.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-06: 32</title></circle>
+<circle cx="803.3" cy="168.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-07: 55</title></circle>
+<circle cx="840.0" cy="228.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-08: 30</title></circle>
+<circle cx="876.7" cy="218.4" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-09: 34</title></circle>
+<circle cx="913.3" cy="249.6" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-10: 21</title></circle>
+<circle cx="950.0" cy="237.6" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-11: 26</title></circle>
+<circle cx="986.7" cy="278.4" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-12: 9</title></circle>
+<circle cx="1023.3" cy="297.6" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-13: 1</title></circle>
+<circle cx="1060.0" cy="278.4" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-14: 9</title></circle>
+<circle cx="1096.7" cy="300.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-15: 0</title></circle>
+<circle cx="1133.3" cy="295.2" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-16: 2</title></circle>
+<circle cx="1170.0" cy="300.0" r="3.5" fill="#ffffff" stroke="#00c647" stroke-width="1.5"><title>2026-10-17: 0</title></circle>
+</g></svg>
