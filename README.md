@@ -21,7 +21,7 @@ class AmirKenzo:
     stack     = ["Python", "TypeScript", "Shell", "Rust"]
     focus     = ["telegram bots", "discord bots", "desktop & web apps", "automation"]
     flagship  = "https://kobshare.ir"
-    currently = ["PasarguardBot", "CipherX"]
+    currently = ["TunnelX", "PasarguardBot"]
     fun_fact  = "gamer at heart, developer by choice 🎮"
 
     def say_hi(self) -> str:
