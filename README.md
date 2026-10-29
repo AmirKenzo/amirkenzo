@@ -18,10 +18,10 @@
 ```python
 class AmirKenzo:
     role      = "Bot & App Developer"
-    stack     = ["Python", "TypeScript", "Shell", "Rust"]
+    stack     = ["Python", "TypeScript", "Rust", "Shell"]
     focus     = ["telegram bots", "discord bots", "desktop & web apps", "automation"]
     flagship  = "https://kobshare.ir"
-    currently = ["CipherX", "PasarguardBot"]
+    currently = ["PasarguardBot", "Coverly"]
     fun_fact  = "gamer at heart, developer by choice 🎮"
 
     def say_hi(self) -> str:
@@ -51,7 +51,7 @@ class AmirKenzo:
 
 <div align="center">
 <!-- AUTO:STACK:START -->
-  <img src="https://skillicons.dev/icons?i=python,ts,bash,rust,js,html,css,docker,powershell,java,cloudflare,discord,fastapi,mysql,react,sqlite,tailwind,linux,git,githubactions&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,bash,js,html,css,docker,powershell,java,cloudflare,discord,fastapi,mysql,react,sqlite,tailwind,linux,git,githubactions&perline=7&theme=dark" />
 <!-- AUTO:STACK:END -->
 </div>
 
