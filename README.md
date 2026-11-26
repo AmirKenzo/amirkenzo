@@ -63,8 +63,8 @@ class AmirKenzo:
   <a href="https://github.com/AmirKenzo/Marzban-Grafana"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Marzban-Grafana&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
   <a href="https://github.com/AmirKenzo/Marzban-Inbound-examples"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Marzban-Inbound-examples&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
   <a href="https://github.com/AmirKenzo/Auto-SSL-Domain"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=Auto-SSL-Domain&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
-  <a href="https://github.com/AmirKenzo/rtt-script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=rtt-script&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
   <a href="https://github.com/AmirKenzo/pasarguard_api"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=pasarguard_api&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
+  <a href="https://github.com/AmirKenzo/rtt-script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AmirKenzo&repo=rtt-script&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff88" /></a>
 <!-- AUTO:PROJECTS:END -->
 </div>
 
